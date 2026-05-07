@@ -60,11 +60,7 @@ I'm passionate about finding bugs before users do and about building robust, rel
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-</div>
 
 ---
 ---
