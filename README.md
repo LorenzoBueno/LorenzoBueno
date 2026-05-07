@@ -64,10 +64,6 @@ I'm passionate about finding bugs before users do and about building robust, rel
 
 <div align="center">
 
-![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorenzoBueno&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoBueno&layout=compact&theme=default&hide_border=true)
-
 </div>
 
 ---
