@@ -73,9 +73,7 @@ I'm passionate about finding bugs before users do and about building robust, rel
 
 **Quality Assurance Engineer · Aprendizado Contínuo**
 
-*Garantindo qualidade, um teste por vez — crescendo ativamente na área de QA.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-bueno-549b81369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-bueno-549b81369)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LorenzoBueno)
 
 </div>
@@ -120,16 +118,6 @@ Sou apaixonado por encontrar bugs antes que os usuários o façam e por construi
 > Repositório prático documentando minha jornada de aprendizado com Cypress — cobrindo estrutura de testes end-to-end, boas práticas, seletores e cenários reais de teste.
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do Lorenzo](https://github-readme-stats.vercel.app/api?username=LorenzoBueno&show_icons=true&theme=default&hide_border=true&count_private=true&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoBueno&layout=compact&theme=default&hide_border=true&locale=pt-br)
-
-</div>
 
 ---
 
