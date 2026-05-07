@@ -14,8 +14,6 @@
 
 **Quality Assurance Engineer · Lifelong Learner**
 
-*Ensuring quality, one test at a time — actively growing in the QA field.*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-bueno-549b81369)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LorenzoBueno)
 
