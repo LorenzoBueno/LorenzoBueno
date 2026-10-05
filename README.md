@@ -1,8 +1,6 @@
 <div align="center">
 </div>
 
----
-
 <div align="center">
 
 # Hi, I'm Lorenzo Bueno 👋
