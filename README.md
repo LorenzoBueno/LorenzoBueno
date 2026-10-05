@@ -1,12 +1,7 @@
 <div align="center">
-
-🌐 **Language / Idioma:** &nbsp; [🇺🇸 English](#-about-me) &nbsp;|&nbsp; [🇧🇷 Português](#-sobre-mim)
-
 </div>
 
 ---
-
-<!-- ═══════════════════════════ ENGLISH VERSION ═══════════════════════════ -->
 
 <div align="center">
 
@@ -18,8 +13,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LorenzoBueno)
 
 </div>
-
----
 
 ## 📌 About Me
 
