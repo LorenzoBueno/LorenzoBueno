@@ -62,15 +62,6 @@ I'm passionate about finding bugs before users do and about building robust, rel
 
 
 
----
----
-
-<!-- ═══════════════════════════ VERSÃO PORTUGUÊS ═══════════════════════════ -->
-
-<div align="center">
-
-# Olá, eu sou Lorenzo Bueno 👋
-
 **Quality Assurance Engineer · Aprendizado Contínuo**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-bueno-549b81369)
